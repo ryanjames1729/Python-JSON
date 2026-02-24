@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Alex Smith",
+        "age": 16,
+        "grade_level": 11
+    },
+    {
+        "name": "Barry Bonds",
+        "age": 42,
+        "grade_level": -1
+    }
+]
